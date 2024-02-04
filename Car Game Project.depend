@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706692569 source:c:\c++ projects\car game project\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+

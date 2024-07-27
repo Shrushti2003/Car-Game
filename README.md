@@ -42,8 +42,7 @@ The main objective of this project is to create an engaging and straightforward 
 # Conclusion
 This simple Car Racing Game aims to provide a fun and challenging experience for players through easy-to-understand gameplay and straightforward controls. Players can enjoy the game, compete for high scores, and improve their reflexes as they navigate through the track and avoid enemy cars.
 
+#### YouTube video link for the music player app:
+[YouTube video link for the music player app](https://youtu.be/H58kHMNh4Fw?si=agmwcqsbh1bo1z6k)
 
-#### YouTube video link for the music player app.
-        https://youtu.be/H58kHMNh4Fw?si=agmwcqsbh1bo1z6k
-
-This format offers a concise and clear overview of your Car Racing Game project, reflecting the simplicity and functionality of the game. 
+This format offers a concise and clear overview of your Car Racing Game project, reflecting the simplicity and functionality of the game.

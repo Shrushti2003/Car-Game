@@ -39,7 +39,7 @@ The main objective of this project is to create an engaging and straightforward 
 - Each collision deducts one life. The game ends when all 3 lives are lost.
 - Aim to achieve the highest score possible before losing all lives.
 
-## Conclusion
+# Conclusion
 This simple Car Racing Game aims to provide a fun and challenging experience for players through easy-to-understand gameplay and straightforward controls. Players can enjoy the game, compete for high scores, and improve their reflexes as they navigate through the track and avoid enemy cars.
 
 
